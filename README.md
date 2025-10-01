@@ -10,8 +10,6 @@ My expertise lies in creating robust backend systems that power seamless user ex
 - 📊 Skilled in **database architecture** with performance optimization  
 - 🔒 Strong foundation in **clean code, SOLID principles, and secure coding practices**  
 - 🌱 Always learning and improving with a focus on **large-scale, high-performance projects**
-- [![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18FcXpxKHwbDeSAGWoudGYmO8Y5oAdF1I/view?usp=drive_link)
-
 
 ## 💻 Tech Stack
 
@@ -45,6 +43,10 @@ My expertise lies in creating robust backend systems that power seamless user ex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanaboelnaga/)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aboelnaga128)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahmanaboelnaga3@gmail.com)
+
+## 📄 My Resume
+
+[![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18FcXpxKHwbDeSAGWoudGYmO8Y5oAdF1I/view?usp=sharing)
 
 ## 📊 GitHub Stats
 
