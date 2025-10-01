@@ -59,3 +59,10 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 ### Let's build something amazing together! 🚀
 ![github-snake](https://github.com/Aboelnaga128/Aboelnaga128/assets/159939141/9b29f0bd-9dec-4f0c-b2ef-d77e513fe66e)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph.svg">
+</picture>
