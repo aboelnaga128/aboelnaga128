@@ -53,7 +53,10 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{aboelnaga128}/count.svg)
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aboelnaga128&label=Profile%20views&color=0e75b6&style=flat" alt="aboelnaga128" /> </p>
+<p align="center">
+</div>
 
 ---
 
