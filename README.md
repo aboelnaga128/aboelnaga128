@@ -46,7 +46,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 ## 📄 My Resume
 
-[![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18FcXpxKHwbDeSAGWoudGYmO8Y5oAdF1I/view?usp=sharing)
+[![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1BK_9EqkQrEi2nwmneGKgH2VRjPJhloez/view?usp=sharing)
 
 ## 📊 GitHub Stats
 
