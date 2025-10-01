@@ -62,7 +62,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aboelnaga128/Aboelnaga128/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph.svg">
 </picture>
