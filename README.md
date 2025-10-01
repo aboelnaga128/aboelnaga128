@@ -45,7 +45,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 ## 📺 Featured Content
 
-### Node.js & .NET Tutorials
+### .NET & Node.js Tutorials
 - **Building RESTful APIs with .NET Core & Node.js**
 - **Authentication & Authorization in Modern Applications**
 - **Database Performance Optimization for Enterprise Systems**
