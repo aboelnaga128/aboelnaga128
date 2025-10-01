@@ -42,6 +42,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanaboelnaga/)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aboelnaga128)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahmanaboelnaga3@gmail.com)
 
 ## 📊 GitHub Stats
 
