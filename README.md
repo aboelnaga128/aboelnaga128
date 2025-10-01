@@ -10,7 +10,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 - 📊 Skilled in **database architecture** with performance optimization  
 - 🔒 Strong foundation in **clean code, SOLID principles, and secure coding practices**  
 - 🌱 Always learning and improving with a focus on **large-scale, high-performance projects**  \
-- My CV [![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18FcXpxKHwbDeSAGWoudGYmO8Y5oAdF1I/view?usp=drive_link)
+- [![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18FcXpxKHwbDeSAGWoudGYmO8Y5oAdF1I/view?usp=drive_link)
 
 
 ## 💻 Tech Stack
