@@ -46,14 +46,14 @@ My expertise lies in creating robust backend systems that power seamless user ex
 ## 📺 Featured Content
 
 ### Node.js & .NET Tutorials
-- **Building RESTful APIs with Node.js & .NET Core**
+- **Building RESTful APIs with .NET Core & Node.js**
 - **Authentication & Authorization in Modern Applications**
 - **Database Performance Optimization for Enterprise Systems**
 - **Clean Code & Best Practices for Scalable Backends**
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{abdelrahmanaboelnaga}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{aboelnaga128}/count.svg)
 
 ---
 
